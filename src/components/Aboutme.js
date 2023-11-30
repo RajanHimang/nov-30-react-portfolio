@@ -11,7 +11,7 @@ function Aboutme() {
             <img src={images.userImg} alt="" width="60%" />
           </div>
           <div className="right">
-            <h2>Kiran Gautam</h2>
+            <h2>Rajan Himang</h2>
             <p className="detail">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Repellendus a quia aliquid architecto? Quisquam neque voluptatem
